@@ -3,9 +3,8 @@
 <p> Edebiyatı ve 2. Dünya savaşı filmlerini severim. Öğrenmeye ve araştırmaya devam ediyorum. Görünen o ki yaşadığım sürece okuma, araştırma da varoluşumun bir parçası olarak kalmaya devam edecek:)</p>
 <hr>
 <h2><ol><em>Sevdiğim Filmler</em></ol></h2>
-   <h3> <li><strong>Soysuzlar Çetesi (Inglourious Basterds)</strong></li> </h3>
-        
-        <img src="https://wallpaperaccess.com/full/1666199.jpg" alt="Soysuzlar Çetesi" title="Inglourious Basterds Wallpaper" height="400" width="550">
+   <h3> <li><strong>Soysuzlar Çetesi (Inglourious Basterds)</strong></li> </h3>    
+        <img src="https://images.alphacoders.com/112/1121053.jpg" alt="Soysuzlar Çetesi" title="Inglourious Basterds Wallpaper" height="400" width="550">
 <p><strong>Tarantino'nun yazdığı ve yönettiği, adeta sanatını konuşturduğu başyapıtlarından birisi.</strong></p>
 
 <h3><li><strong>Yedinci Mühür (Det sjunde inseglet)</strong></li></h3>
