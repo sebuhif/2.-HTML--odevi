@@ -1,5 +1,4 @@
 <h1 id="footer">Hakkımda</h1>
-<title>Patika.dev İkinci Ödev</title>
 <p>Merhaba ben Sabuhi Feyziyev. Azerbaycanlıyım. Yazılıma yeni başladım ve Patika sayesinde çok ilerleme kaydettim.</p>
 <p> Edebiyatı ve 2. Dünya savaşı filmlerini severim. Öğrenmeye ve araştırmaya devam ediyorum. Görünen o ki yaşadığım sürece okuma, araştırma da varoluşumun bir parçası olarak kalmaya devam edecek:)</p>
 <hr>
